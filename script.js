@@ -1,6 +1,6 @@
 // 🔥 Firebase config
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
+    apiKey: "AIzaSyA113IFenta-f8BUjIPDVp-4V6t4_SnHeA",
     databaseURL: "https://honey-badger-home-default-rtdb.firebaseio.com/"
 };
 
